@@ -6,6 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		System.out.println( "Hello World!" );
+		
+		// Aggiungo un'altra riga di codice
+		System.out.println("stampo un'altra riga di codice");
 	}
 
 }
