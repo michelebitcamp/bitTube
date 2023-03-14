@@ -6,7 +6,7 @@
             aria-controls="offcanvasWithBothOptions"><i class="fa-solid fa-bars"></i></button>
         </div>
         <div class="col-1">
-          <img src="${pageContext.request.contextPath}/resources/img/img-2.png" class="logo" alt="" id="logo-bittube">
+          <img src="${pageContext.request.contextPath}/resources/img/img-2.png" class="logo" alt="" id="logo-bittube" />
         </div>
         <div class="col-8">
           <div class="search-box">
@@ -17,9 +17,11 @@
         </div>
         <div class="col-2">
           <div class="user-dp">
-            <img class="img"
-              src="https://thumbs.dreamstime.com/b/icona-dell-utente-person-profile-sign-illustrazione-avatar-di-vettore-124240309.jpg"
-              alt="">
+          	<a href="login.jsp">
+	            <img class="img"
+	              src="https://thumbs.dreamstime.com/b/icona-dell-utente-person-profile-sign-illustrazione-avatar-di-vettore-124240309.jpg"
+	              alt="">
+              </a>
           </div>
         </div>
       </nav>
