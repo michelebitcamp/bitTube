@@ -36,7 +36,6 @@
 	  <jsp:include page="common/header.jsp" />
 	  <!-- [END] - Header  -->
 	  
-	
 	    <!-- [START] - Main -->
 	    <main class="row">
 	      <div class="col-12" style="background-color: white;">
